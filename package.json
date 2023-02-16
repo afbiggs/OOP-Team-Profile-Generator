@@ -1,14 +1,13 @@
 {
   "dependencies": {
-    "inquirer": "^9.1.4",
+    "inquirer": "^8.2.5",
     "jest": "^29.3.1",
-    "node": "^19.4.0"
+    "node": "^16.19"
   },
   "name": "oop-team-profile-generator",
   "description": "Team Profile Generator ",
   "version": "1.0.0",
   "main": "'",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
