@@ -32,19 +32,19 @@ test("Gets name through getName method.", () => {
     expect(employeeInstance.getName()).toBe(testName);
 })
 
-test("Can test ID through getID method.", () => {
+test("Gets ID through getID method.", () => {
     const testID = 47;
     const employeeInstance = new Employee("Alex", testID);
     expect(employeeInstance.getId()).toBe(testID);
 })
 
-test("Can test email through getEmail method.", () => {
+test("Gets email through getEmail method.", () => {
     const testEmail = "afbiggs73@gmail.com";
     const employeeInstance = new Employee("Alex", 47, testEmail);
     expect(employeeInstance.getEmail()).toBe(testEmail);
 })
 
-test("Testing role.", () => {
+test("Gets role through gerRole method.", () => {
     const returnValue = "Employee";
     const employeeInstance = new Employee("Alex", 47, "afbiggs73@gmail.com");
     expect(employeeInstance.getRole()).toBe(returnValue);
