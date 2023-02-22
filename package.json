@@ -7,7 +7,7 @@
   "name": "oop-team-profile-generator",
   "description": "Team Profile Generator ",
   "version": "1.0.0",
-  "main": "npm server.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
