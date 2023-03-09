@@ -5,6 +5,7 @@
   
   * The Team Profile Generator is a command-line-input application which is ran using NodeJS. Once initiated, the application requests information from the user about members of an engineering team and generates a HTML file displaying the information the user input. The HTML file can then be ran in a web browser where the information the user gave will be displayed in an easy to read format.  
 
+*Video walkthrough of how to initiate and run the application:* https://app.castify.com/view/7673e1b3-c38b-4a0d-89f3-de43247e4383
   
   ## Table of Contents
   
